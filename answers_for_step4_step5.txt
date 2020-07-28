@@ -1,0 +1,21 @@
+What can you do to improve agreement rates overtime?
+-Evaluate success rate of each rater and eleminate them or assign them to less tasks. This will help us to get the most benefit from the
+other raters.
+
+How do you improve precision of a label overtime?
+-Populate the dataset with more balanced data raher than random inputs
+
+What changes are needed or required to improve your dataset to achieve over 90% agreement, precision, or
+recall?
+-Raters that cause less precision, recall or agreement should be discarded and new raters which have an agreement rate 90% should be hired.
+
+Why do some raters perform better than others?
+-Raters' functionalities and capabilities might be different or their there might be some unknown effects that effect their performance.
+-Their montly performances might be effect their performances(for that we need a bigger dataset which has a year of data)
+
+
+Identify 3 more potential questions to consider that can be used to identify issues among raters.
+
+1-Does success rate change by time(weekly or daily)?
+2-Are there any differences between raters' conditions?
+3-Are there any evidence that shows us if there is a connection between a the amount of tasks a rater is doing daily and their success rate?
